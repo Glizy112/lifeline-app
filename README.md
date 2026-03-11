@@ -1,4 +1,4 @@
-# Project LifeLine: Secure Coding & Remediation Lab
+<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7ccda8a3-186d-4afe-abe5-e86a9a0b4877" /># Project LifeLine: Secure Coding & Remediation Lab
 Welcome to the **LifeLine App** Security Team.
 
 ### Scenario
@@ -66,3 +66,6 @@ Once all tests pass, prepare a brief **Remediation Report** for the client:
 
 ## ⚠️ Disclaimer
 *This lab is to simulate work done at companies. The vulnerabilities included are intentional yet impactful if left-over in a production environment and can leave a bad impact on user data & trust.*
+
+## Happy Hacking!🙂
+
