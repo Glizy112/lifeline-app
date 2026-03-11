@@ -1,4 +1,4 @@
-<img width="28" height="28" alt="image" src="https://github.com/user-attachments/assets/7ccda8a3-186d-4afe-abe5-e86a9a0b4877" /># Project LifeLine: Secure Coding & Remediation Lab
+# Project LifeLine: Secure Coding & Remediation Lab
 Welcome to the **LifeLine App** Security Team.
 
 ### Scenario
